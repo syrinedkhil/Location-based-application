@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627999996421",
+    "project_id": "geolocalisation-eca86",
+    "storage_bucket": "geolocalisation-eca86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627999996421:android:f7cf3872992db0bde27a6c",
+        "android_client_info": {
+          "package_name": "com.example.app_suivie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627999996421-h34t9rjpsllf09fjk1ti266apkmin193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJy6voeIsagUm-V6Tgup2H0staqWlPgXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627999996421-h34t9rjpsllf09fjk1ti266apkmin193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
